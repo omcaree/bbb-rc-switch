@@ -1,0 +1,5 @@
+rc_switch
+*.bin
+am335x_pru_package
+dtbos/*.dtbo
+src/*.o
