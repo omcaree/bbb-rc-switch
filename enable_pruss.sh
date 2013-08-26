@@ -15,6 +15,6 @@ make install
 
 # Enable PRU
 echo "Enabling PRU"
-echo bone_pru1_spi > /sys/devices/bone_capemgr.*/slots
+echo bone_pru_rcs > /sys/devices/bone_capemgr.*/slots
 
 exit 0
